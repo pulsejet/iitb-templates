@@ -19,6 +19,10 @@
     -o-user-select: none;
 }
 
+.room.b {
+    width: calc(100% - 4px);
+}
+
 .room span {
     font-size: 8pt;
 }
