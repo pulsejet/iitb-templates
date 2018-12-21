@@ -1,6 +1,10 @@
 /* ------------ Sample Room Styles ------------------- */
 /* Note: these styles are only for testing and independent of styles used in Ferrous */
 
+.btn {
+    margin-bottom: 4px;
+}
+
 .room {
     height:35px;
     width:30px;
